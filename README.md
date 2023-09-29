@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## Today's Weather Forecast in My Hometown
+## Today's Weather
 <table>
     <tr>
         <th>Hour</th>
