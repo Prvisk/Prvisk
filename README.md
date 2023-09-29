@@ -43,11 +43,6 @@ Moderate rain
 </table>
 
 
-<div align="right">
-
-*Updated at: 2023-09-29T06:29:01Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
-
-</div>
 
 
 
