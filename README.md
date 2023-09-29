@@ -1,7 +1,7 @@
 # Hi there 👋
 ### About Me 🌱
 ### My Streak Stats 📊
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prvisk&theme=react)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prvisk)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Prvisk/Prvisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
