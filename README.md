@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpsYjA5NjM0Nm84b3lhOWd4ZHN1bDhtbHA4YnlndXFueHVyYjFwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AKjT5kDZMK4wsPXJPk/giphy.gif">
 </div>
+<hr>
 <div>
   <h3>✨About Me:</h3>
   <p>I'm a Back-End developer</p>
