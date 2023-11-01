@@ -48,6 +48,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" height="40px" width="40px"> <!--GO-->
   </div>
 </div>
+<hr>
 <div align="center">
   <p>
     Thank's for reading
