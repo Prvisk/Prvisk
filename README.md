@@ -1,4 +1,4 @@
-![image](https://github.com/Prvisk/Prvisk/assets/105361036/a26561b9-6031-44e5-a809-5dffecad3588)<div align="center" id="header">
+<div align="center" id="header">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21jNDBrMHpuaThseHRxNTVhNGxiOHAxazJ2amo3bHJ4b2hjM29lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" alt="JustAGif" width="150">
 </div>
 
