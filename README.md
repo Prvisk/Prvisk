@@ -18,10 +18,13 @@
     <li><h5>🔭I’m currently working on free lance</h5></li>
     <li><h5>🌱I’m currently learning about networking</h5></li>
     <li><h5>⚡Fun fact: In my free time i'll make handmade toys</h5></li>
-    <li><h5>🐻My quote: You must love in such a way that the person you love feels free<br><h7 underline>Thich Nhat Hanh</h7></h5></li>
+    <li><h5>🐻My quote: You must love in such a way that the person you love feels free ( Thich Nhat Hanh )</li>
   </ul>
 </div>
 <div>
-  <h3>My </h3>
+  <h3>Language & Tool</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" height="40px" width="40px">
+  </div>
 </div>
 
