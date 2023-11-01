@@ -8,17 +8,13 @@
     <img src="https://komarev.com/ghpvc/?username=prvisk&style=for-the-badge&color=blue" alt=""/>
   </div>
 </div>
-<!--
-**Prvisk/Prvisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  ✨<h1>About Me:</h1>
+  <p>I'm a Back-End developer</p>
+  <ul>
+    🔭<li>I’m currently working on free lance</li>
+    🌱<li>I’m currently learning about networking</li>
+    ⚡<li>Fun fact: In my free time i'll make handmade toys</li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
