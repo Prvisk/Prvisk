@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=prvisk&style=for-the-badge&color=blue" alt=""/>
   </div>
 </div>
-<div align="center">
+<div>
   <h3>✨About Me:</h3>
   <p>I'm a Back-End developer</p>
   <ul>
