@@ -22,10 +22,9 @@
   </ul>
 </div>
 <div>
-  <h3>Language & Tool</h3>
+  <h2>🛠️Language - Tool</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="40px" width="40px"> <!--VSCODE-->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" height="40px" width="40px"> <!--VS-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" height="40px" width="40px"><!--Bootstrap-Original-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" height="40px" width="40px"> <!--Babel-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40px" width="40px"> <!--Azure-->
@@ -35,6 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40px" width="40px"> <!--HTML-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40px" width="40px"> <!--CSS-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px"> <!--JS-->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" height="40px" width="40px"><!--Bootstrap-Original-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40px" width="40px"> <!--PHP-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40px" width="40px"> <!--SASS-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40px" width="40px"> <!--GIT-->
@@ -47,5 +47,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40px" width="40px"> <!--C#-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" height="40px" width="40px"> <!--GO-->
   </div>
+</div>
+<div align="center">
+  <p>
+    Thank's for reading
+    <br>
+    💫 Have A Good Day
+  </p>
 </div>
 
