@@ -12,7 +12,7 @@
   ✨<h1>About Me:</h1>
   <p>I'm a Back-End developer</p>
   <ul>
-    🔭<li>I’m currently working on free lance</li>
+    <span>🔭<li>I’m currently working on free lance</li></span>
     🌱<li>I’m currently learning about networking</li>
     ⚡<li>Fun fact: In my free time i'll make handmade toys</li>
   </ul>
