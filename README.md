@@ -1,8 +1,9 @@
 <div align="center">
   <h1> Hi there 👋 </h1>
-  <img src="https://komarev.com/ghpvc/?username=prvisk&style=flat-square&color=blue" alt=""/>
+  <div id="badge">
+    <img src="https://komarev.com/ghpvc/?username=prvisk&style=for-the-badge&color=blue" alt=""/>
+  </div>
 </div>
-
 <!--
 **Prvisk/Prvisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
