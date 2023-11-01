@@ -1,4 +1,4 @@
-<div align="center" id="header">
+![image](https://github.com/Prvisk/Prvisk/assets/105361036/a26561b9-6031-44e5-a809-5dffecad3588)<div align="center" id="header">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21jNDBrMHpuaThseHRxNTVhNGxiOHAxazJ2amo3bHJ4b2hjM29lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" alt="JustAGif" width="150">
 </div>
 
@@ -8,12 +8,8 @@
     <img src="https://komarev.com/ghpvc/?username=prvisk&style=for-the-badge&color=blue" alt=""/>
   </div>
 </div>
-<div style="width:100%;height:0;padding-bottom:36%;position:relative;">
-  <iframe src="https://giphy.com/embed/AKjT5kDZMK4wsPXJPk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p>
-  <a href="https://giphy.com/gifs/weareactdigital-actdigital-act-digital-weareact-AKjT5kDZMK4wsPXJPk">via GIPHY</a>
-</p>
+<div>
+  <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpsYjA5NjM0Nm84b3lhOWd4ZHN1bDhtbHA4YnlndXFueHVyYjFwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AKjT5kDZMK4wsPXJPk/giphy.gif" width="250"></h1>
 <div>
   <h3>✨About Me:</h3>
   <p>I'm a Back-End developer</p>
