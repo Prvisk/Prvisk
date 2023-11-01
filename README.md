@@ -9,12 +9,12 @@
   </div>
 </div>
 <div align="center">
-  <h1>✨About Me:</h1>
+  <h3>✨About Me:</h3>
   <p>I'm a Back-End developer</p>
   <ul>
-    <li>🔭I’m currently working on free lance</li>
-    <li>🌱I’m currently learning about networking</li>
-    <li>⚡Fun fact: In my free time i'll make handmade toys</li>
+    <li><h5>🔭I’m currently working on free lance</h5></li>
+    <li><h5>🌱I’m currently learning about networking</h5></li>
+    <li><h5>⚡Fun fact: In my free time i'll make handmade toys</h5></li>
   </ul>
 </div>
 
