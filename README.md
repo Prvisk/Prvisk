@@ -51,9 +51,9 @@
 <hr>
 <div align="center">
   <p>
-    Thank's for reading
+    ❤️ Thanks for watching my profile! Have a gud day! ❤️
     <br>
-    💫 Have A Good Day
+    Prvisk
   </p>
 </div>
 
