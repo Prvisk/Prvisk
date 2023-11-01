@@ -1,5 +1,7 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 
 <img src="https://komarev.com/ghpvc/?username=prvisk&style=flat-square&color=blue" alt=""/>
+</h1>
+
 
 <!--
 **Prvisk/Prvisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
