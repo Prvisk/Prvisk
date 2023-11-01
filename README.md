@@ -18,7 +18,7 @@
     <li><h5>🔭I’m currently working on free lance</h5></li>
     <li><h5>🌱I’m currently learning about networking</h5></li>
     <li><h5>⚡Fun fact: In my free time i'll make handmade toys</h5></li>
-    <li><h5>🐻My quote: You must love in such a way that the person you love feels free ( Thich Nhat Hanh )</li>
+    <li><h5>🐻My quote: You must love in such a way that the person you love feels free ( Thich Nhat Hanh )</h5></li>
   </ul>
 </div>
 <div>
