@@ -15,7 +15,7 @@
 <div>
   <h3>✨About Me:</h3>
   <p>I'm a Back-End developer</p>
-  <ul>
+  <ul style="list-style:none;">
     <li><h5>🔭I’m currently working on free lance</h5></li>
     <li><h5>🌱I’m currently learning about networking</h5></li>
     <li><h5>⚡Fun fact: In my free time i'll make handmade toys</h5></li>
