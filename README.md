@@ -1,3 +1,7 @@
+<div align="center" id="header">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21jNDBrMHpuaThseHRxNTVhNGxiOHAxazJ2amo3bHJ4b2hjM29lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" alt="JustAGif">
+</div>
+
 <div align="center">
   <h1> Hi there 👋 </h1>
   <div id="badge">
