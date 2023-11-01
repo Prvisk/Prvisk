@@ -1,7 +1,5 @@
 <div align="center" id="header">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21jNDBrMHpuaThseHRxNTVhNGxiOHAxazJ2amo3bHJ4b2hjM29lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" alt="JustAGif" width="150">
-  <img src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
-
 </div>
 
 <div align="center">
@@ -10,6 +8,12 @@
     <img src="https://komarev.com/ghpvc/?username=prvisk&style=for-the-badge&color=blue" alt=""/>
   </div>
 </div>
+<div style="width:100%;height:0;padding-bottom:36%;position:relative;">
+  <iframe src="https://giphy.com/embed/AKjT5kDZMK4wsPXJPk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p>
+  <a href="https://giphy.com/gifs/weareactdigital-actdigital-act-digital-weareact-AKjT5kDZMK4wsPXJPk">via GIPHY</a>
+</p>
 <div>
   <h3>✨About Me:</h3>
   <p>I'm a Back-End developer</p>
